@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_task3/static/css/main.911cad69.chunk.css",
+    "main.js": "/react_task3/static/js/main.a25dfd59.chunk.js",
+    "main.js.map": "/react_task3/static/js/main.a25dfd59.chunk.js.map",
+    "runtime-main.js": "/react_task3/static/js/runtime-main.22641516.js",
+    "runtime-main.js.map": "/react_task3/static/js/runtime-main.22641516.js.map",
+    "static/js/2.8bf73427.chunk.js": "/react_task3/static/js/2.8bf73427.chunk.js",
+    "static/js/2.8bf73427.chunk.js.map": "/react_task3/static/js/2.8bf73427.chunk.js.map",
+    "index.html": "/react_task3/index.html",
+    "precache-manifest.6e927ccef6999394841ae353ac8d57ae.js": "/react_task3/precache-manifest.6e927ccef6999394841ae353ac8d57ae.js",
+    "service-worker.js": "/react_task3/service-worker.js",
+    "static/css/main.911cad69.chunk.css.map": "/react_task3/static/css/main.911cad69.chunk.css.map",
+    "static/js/2.8bf73427.chunk.js.LICENSE.txt": "/react_task3/static/js/2.8bf73427.chunk.js.LICENSE.txt",
+    "static/media/profile_pic.svg": "/react_task3/static/media/profile_pic.6f88fc6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22641516.js",
+    "static/js/2.8bf73427.chunk.js",
+    "static/css/main.911cad69.chunk.css",
+    "static/js/main.a25dfd59.chunk.js"
+  ]
+}
