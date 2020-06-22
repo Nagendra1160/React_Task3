@@ -1,0 +1,95 @@
+{
+"profile":[
+    {
+        "basics":
+        {
+            "name":"Nagendra",
+            "pin":"17551A0556",
+            "college":"GIET",
+            "email":"nagendrathoram@gmail.com",
+            "Mobile":"9515178473"
+        },
+        "carrer": "Aiming to work as software developer to utilize my skills for growth of oranganiztion as wells as to improve my  professional skills ",
+       "edu":
+       {
+           "btech":"GIET",
+           "Bper":"85",
+           "Byr":"2021",
+
+           "inter":"Adity Junior College",
+           "Iper":"97",
+           "Iyr":"2017",
+
+           "ssc":"IJEMS",
+           "Sper":"95",
+           "Syr":"2015"
+       },
+       
+       "hobby":
+       {
+           "h":["Surfing Net ","Reading Books"]
+       },
+       "achieve":
+        {
+        "ai":[
+            
+            "Certified in NPTEL Java Certification with Elite Silver ",
+            "Certified in NPTEL DBMS Certification with Elite" ,
+            "Certification course on Python Programming from Coursera ",
+            " Certification course on Cloud Computing Basics from Coursera "
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+    }
+    },
+    
+
+    {
+        "basics":
+        {
+            "name":"Ram",
+            "pin":"17551A0888",
+            "college":"GIET",
+            "email":"ramdhimkinid@gmail.com",
+            "Mobile":"9838388338"
+        },
+        "carrer": "Aiming to work as software developer to utilize my skills for growth of oranganiztion as wells as to improve my  professional skills ",
+
+        "edu":
+        {
+            "btech":"GIET",
+            "Bper":"85",
+            "Byr":"2021",
+ 
+            "inter":"Adity Junior College",
+            "Iper":"97",
+            "Iyr":"2017",
+ 
+            "ssc":"IJEMS",
+            "Sper":"95",
+            "Syr":"2015"
+        },
+        
+        "hobby":
+        {
+            "h":["Playing Games  ","Reading Books"]
+        },
+        "achieve":
+         {
+         "ai":[
+             
+             "Certified in TEL Java Certification with Elite Silver ",
+             "Certified in NPTEL DBMS Certification with Elite" ,
+             "Certification course on Python Programming from Coursera ",
+             " Certification course on Cloud Computing Basics from Coursera "
+             
+             
+         ],
+         "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+     }
+     }
+    
+]
+
+}
